@@ -27,3 +27,21 @@ fp-info-cache
 # Exported BOM files
 *.xml
 *.csv
+
+# KiCad 7
+*.lck
+*auto_saved_files*
+
+Gerber/
+
+
+###### Mac
+
+# General Mac files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
